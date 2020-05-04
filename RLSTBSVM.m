@@ -5,8 +5,11 @@ function [err,Predict_Y,A,B,x1,x2] = RLSTBSVM(TestX,DataTrain,FunPara)
 %   Input:
 %    TestX - Test Data matrix.
 %    DataTrain -input Data matrix for training.
-%    FunPara -  c1: [0,inf] Paramter to tune the weight.
-%               c2: [0,inf] Paramter to tune the weight.
+%    FunPara -  c1:  Paramter to tune the weight.
+%               c2:  Paramter to tune the weight.
+%               c3:  Paramter to tune the weight.
+%               c4:  Paramter to tune the weight.
+%               kerfPara.pars:  Paramter to tune the weight.
 % Output:
 %    Predict_Y - Predict value of the TestX.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
