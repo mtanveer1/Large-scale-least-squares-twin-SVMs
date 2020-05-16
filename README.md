@@ -1,6 +1,6 @@
 # Large-scale-least-squares-twin-SVMs
 
-This code corresponds to the paper: M. Tanveer, S. SHARMA, and K. MUHAMMAD. "Large scale least squares twin SVMs." 
+This code corresponds to the paper: M. Tanveer, S. SHARMA, and K. MUHAMMAD. "Large scale least squares twin SVMs", ACM Transactions on Internet Technology https://doi.org/10.1145/3398379  
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
@@ -31,10 +31,10 @@ This code is not optimized for efficiency. It has been tested on Windows 10 with
 Please cite the following paper if you are using this code.
 
 Reference:  
-1. M. Tanveer, S. SHARMA, and K. MUHAMMAD. "Large scale least squares twin SVMs." 
+1. M. Tanveer, S. SHARMA, and K. MUHAMMAD (2020). "Large scale least squares twin SVMs", ACM Transactions on Internet Technology https://doi.org/10.1145/3398379 
 
 For more details please refer to the paper.
 
-If you have problems about this software, please contact: msc1703141010@iiti.ac.in
+If you have problems about this software, please contact: msc1703141010@iiti.ac.in or mtanveer@iiti.ac.in
 
 11/04/2020
